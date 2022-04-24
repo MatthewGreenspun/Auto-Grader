@@ -1,0 +1,11 @@
+#secrets
+.env
+refresh_token.txt
+
+#generated
+node_modules/
+dist/
+
+#misc
+res.json
+char_col.json
